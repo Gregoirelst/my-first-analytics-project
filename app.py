@@ -1,1 +1,3 @@
-print (je)
+import streamlit as st
+
+st.title("Main App")

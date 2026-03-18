@@ -1,3 +1,3 @@
 # my-first-analytics-project
-brief description of what me repositary will do
+brief description of what me repositroy will do
 

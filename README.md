@@ -1,2 +1,3 @@
 # my-first-analytics-project
-brief description 
+brief description of what me repositary will do
+
